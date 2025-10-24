@@ -1,0 +1,1 @@
+Start the frontend with npm install and npm run dev. Make sure backend is running on http://127.0.0.1:8000
